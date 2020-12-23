@@ -1,0 +1,9 @@
+case,AMAK,ASAP,BAM,SS
+1,amak_C1-2-4.dat,asap3_C1-2-4.DAT,BAM.DatInput.Parms_C1-2-4-5-6-8.xlsx,control_C1.ss
+2,amak_C1-2-4.dat,asap3_C1-2-4.DAT,BAM.DatInput.Parms_C1-2-4-5-6-8.xlsx,control_C2-3-4.ss
+3,amak_C3.dat,asap3_C3.DAT,BAM.DatInput.Parms_C3.xlsx,control_C2-3-4.ss
+4,amak_C1-2-4.dat,asap3_C1-2-4.DAT,BAM.DatInput.Parms_C1-2-4-5-6-8.xlsx,control_C2-3-4.ss
+5,amak_C5-6-8.dat,,BAM.DatInput.Parms_C1-2-4-5-6-8.xlsx,control_C5.ss
+6,amak_C5-6-8.dat,,BAM.DatInput.Parms_C1-2-4-5-6-8.xlsx,control_C6-7-8.ss
+7,amak_C7.dat,,BAM.DatInput.Parms_C7.xlsx,control_C6-7-8.ss
+8,amak_C5-6-8.dat,,BAM.DatInput.Parms_C1-2-4-5-6-8.xlsx,control_C6-7-8.ss
